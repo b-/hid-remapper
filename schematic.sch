@@ -726,7 +726,7 @@ LETTER landscape</description>
 <wire x1="111.76" y1="67.31" x2="102.87" y2="67.31" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="GND" class="0">
+<net name="GND" class="1">
 <segment>
 <pinref part="J1" gate="G$1" pin="GND"/>
 <wire x1="119.38" y1="83.82" x2="119.38" y2="81.28" width="0.1524" layer="91"/>
